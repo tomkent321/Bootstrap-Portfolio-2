@@ -9,7 +9,7 @@
     line-height: 50px;
     text-align: center;
     font-family: Georgia, Times, "Times New Roman", serif;
-    font-size: 26px;
+    font-size: 23px;
 }
 
 .container-fluid {
@@ -51,8 +51,20 @@
 .pic-card {
     position: absolute;
     bottom: 4%;
-    background-color: black;
+    background-color:  #4aaaa5;
     width:83%;
     color: white;
     text-align: center;
+    font-family: eorgia, Times, "Times New Roman", serif;
 }
+
+.block-header {
+    color: #4aaaa5;  
+    font-size: 23px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    border-bottom: 1px #dddddd solid;
+    padding: 10px;
+
+
+}
+
